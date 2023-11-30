@@ -7,8 +7,11 @@ The official code repository for "Uncertainty-aware Decisioning for Robust Deliv
   - data
   - results 
   - common.py
+    - for dataset generation; experimental and model hyperparameter settings 
   - model.py
+    - for model implements
   - train.py
+    - for model training
 - sampling
   - sampling_module.ipynb
 
