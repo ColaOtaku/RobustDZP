@@ -55,3 +55,5 @@ Due to the company's data protection policy, we can not release the data. Instea
 | AOI_ID\POI category | Retail | Residence | ...| 
 |------------------------------------------|----------|----------|----------|
 | 7262716338xxxxxxxx734D6C | 0      | 2      | |
+**data/disatnces**
+> a matrix (N*N array, where N is the total aoi number) contains the navigation distances between each aoi
