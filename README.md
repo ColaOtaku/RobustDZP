@@ -15,7 +15,8 @@ The official code repository for "Uncertainty-aware Decisioning for Robust Deliv
 - sampling
   - sampling_module.ipynb
 - partition
-  - partition.ipynb 
+  - partition.ipynb
+    - Note that the order_df and real_df refer to the predicted order volume and real world order volume, respectively. For different allocation strategy, please use dist_prior() and order_prior() functions.   
 
 
 ### Data Description
