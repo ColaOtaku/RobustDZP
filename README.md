@@ -14,6 +14,8 @@ The official code repository for "Uncertainty-aware Decisioning for Robust Deliv
     - for model training
 - sampling
   - sampling_module.ipynb
+- partition
+  - partition.ipynb 
 
 
 ### Data Description
